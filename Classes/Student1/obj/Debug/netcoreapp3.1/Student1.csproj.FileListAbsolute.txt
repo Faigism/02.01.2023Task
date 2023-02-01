@@ -1,0 +1,14 @@
+C:\Users\faiqi\source\Classes\Student1\bin\Debug\netcoreapp3.1\Student1.exe
+C:\Users\faiqi\source\Classes\Student1\bin\Debug\netcoreapp3.1\Student1.deps.json
+C:\Users\faiqi\source\Classes\Student1\bin\Debug\netcoreapp3.1\Student1.runtimeconfig.json
+C:\Users\faiqi\source\Classes\Student1\bin\Debug\netcoreapp3.1\Student1.runtimeconfig.dev.json
+C:\Users\faiqi\source\Classes\Student1\bin\Debug\netcoreapp3.1\Student1.dll
+C:\Users\faiqi\source\Classes\Student1\bin\Debug\netcoreapp3.1\Student1.pdb
+C:\Users\faiqi\source\Classes\Student1\obj\Debug\netcoreapp3.1\Student1.csproj.AssemblyReference.cache
+C:\Users\faiqi\source\Classes\Student1\obj\Debug\netcoreapp3.1\Student1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faiqi\source\Classes\Student1\obj\Debug\netcoreapp3.1\Student1.AssemblyInfoInputs.cache
+C:\Users\faiqi\source\Classes\Student1\obj\Debug\netcoreapp3.1\Student1.AssemblyInfo.cs
+C:\Users\faiqi\source\Classes\Student1\obj\Debug\netcoreapp3.1\Student1.csproj.CoreCompileInputs.cache
+C:\Users\faiqi\source\Classes\Student1\obj\Debug\netcoreapp3.1\Student1.dll
+C:\Users\faiqi\source\Classes\Student1\obj\Debug\netcoreapp3.1\Student1.pdb
+C:\Users\faiqi\source\Classes\Student1\obj\Debug\netcoreapp3.1\Student1.genruntimeconfig.cache
